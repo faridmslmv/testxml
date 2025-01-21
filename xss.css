@@ -1,0 +1,9 @@
+<style>
+@keyframes xss {
+  0% { background-image: url("javascript:alert('XSS')"); }
+}
+div {
+  animation: xss 1s infinite;
+}
+</style>
+<div></div>
